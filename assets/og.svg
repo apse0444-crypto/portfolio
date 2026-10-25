@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="Your Name — Product Engineer and Designer">
+  <rect width="1200" height="630" fill="#f4f1ea"/>
+  <g fill="none" stroke="#dbd5c9" stroke-width="1">
+    <path d="M0 96h1200M0 534h1200M96 0v630M1104 0v630"/>
+  </g>
+  <text x="96" y="180" font-family="'JetBrains Mono', ui-monospace, Menlo, monospace" font-size="18" letter-spacing="3" fill="#7a736a">PORTFOLIO — 2026</text>
+  <text x="96" y="330" font-family="Georgia, 'Times New Roman', serif" font-size="120" letter-spacing="-4" fill="#171412">Your Name</text>
+  <text x="96" y="400" font-family="Georgia, 'Times New Roman', serif" font-size="52" font-style="italic" letter-spacing="-1" fill="#c14a22">Product engineer &amp; designer</text>
+  <text x="96" y="486" font-family="-apple-system, Inter, Helvetica, Arial, sans-serif" font-size="24" fill="#4a443d">Building calm, fast software for the web.</text>
+  <circle cx="1104" cy="552" r="6" fill="#c14a22"/>
+</svg>
